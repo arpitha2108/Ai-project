@@ -1,0 +1,20 @@
+WORKHUB REGISTRATION SUMMARY
+----------------------------
+Total registrations: 20
+Valid entries: 11
+Needs fixing: 9
+Duplicates: 0
+
+VALID REGISTRATIONS BY BRANCH
+CSE: 2
+ECE: 2
+IT: 2
+AIDS: 1
+EEE: 2
+CIVIL: 2
+
+VALID REGISTRATIONS BY YEAR
+2 year: 2
+3 year: 4
+1 year: 3
+4 year: 2
